@@ -2,3 +2,4 @@ Hello Git from SAP BAS
 Now it's updating the test
 
 This is from main
+Meassge from feature branch
